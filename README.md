@@ -44,7 +44,7 @@ You need your own API key to run it locally.
 
 ## 📸 Screenshot
 
-(Add your project screenshot here)
+![image alt](https://github.com/Ritu-Sharma08/weather-app/blob/a5fa7e2d935a01d65266151a794a226625b3c8b9/Screenshot%20(106).png)
 
 ---
 
