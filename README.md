@@ -41,10 +41,25 @@ This project uses OpenWeatherMap API.
 You need your own API key to run it locally.
 
 ---
+## Live Preview
+![Weather App Chrome Preview](weather-app-chrome-preview.png)
 
-## 📸 Screenshot
+---
 
-![image alt](https://github.com/Ritu-Sharma08/weather-app/blob/a5fa7e2d935a01d65266151a794a226625b3c8b9/Screenshot%20(106).png)
+
+## 📸 Screenshot 
+
+## 1. HTML Structure 
+![HTML Structure](code-html-structure.png)
+
+## 2. CSS Styling
+![CSS Styling](code-css-styling.png)
+
+## 3. JavaScript Logic
+![JavaScript Logic](code-js-logic.png)
+
+## 4. API Integration
+![API Fetch](code-api-fetch.png)
 
 ---
 
